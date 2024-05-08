@@ -346,4 +346,8 @@ body {
     display: flex;
     align-items: center;
     gap: 5px;
+    cursor: pointer;
+}
+.range input{
+    cursor: pointer;
 }
