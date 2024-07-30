@@ -2,6 +2,7 @@ let currsong = new Audio();
 let songs;
 let currfolder;
 
+
 function secondsToMinutesSeconds(seconds) {
     if (isNaN(seconds) || seconds < 0) {
         return "00:00";
